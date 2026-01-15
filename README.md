@@ -15,7 +15,7 @@ react-daily-progress/
 │
 ├── Day-01-React-Basics/
 │ ├── notes.md
-│ └── counter-app/
+│ └── counter-app/ 
 │
 ├── Day-02-Components/
 │ ├── notes.md
